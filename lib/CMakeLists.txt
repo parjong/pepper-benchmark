@@ -1,0 +1,2 @@
+add_library(pepper_benchmark INTERFACE)
+target_include_directories(pepper_benchmark INTERFACE include)
